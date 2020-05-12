@@ -1,10 +1,10 @@
 {
-  "name": "pmurkin/bootstrapi",
+  "name": "101iv/bootstrapi",
   "description": "This is my JSON API skeleton. Built using Slim 3, Eloquent, Zend-ACL",
   "minimum-stability": "stable",
   "version": "0.1",
   "license": "MIT",
-  "homepage": "https://github.com/kot13/bootstrapi",
+  "homepage": "https://github.com/101iv/bootstrapi",
   "type": "project",
   "keywords": ["slim", "slim-framework", "api", "skeleton", "eloquent", "cli-tool", "migration", "json api"],
 
